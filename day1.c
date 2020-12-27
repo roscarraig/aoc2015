@@ -1,7 +1,6 @@
 #include <string.h>
 #include "aoc.h"
 
-
 int main(int argc, char *argv[])
 {
   FILE *fp = open_data(argc, argv);
